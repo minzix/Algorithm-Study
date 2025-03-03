@@ -20,8 +20,8 @@
 ```
 
 ## 공부 내용 정리 블로그
-- [`Python`](https://velog.io/@minjikim/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
-- [`Java`](https://velog.io/@minjikim/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%90%EB%B0%94)
+- [`파이썬으로 푼 문제`](https://velog.io/@minjikim/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+- [`자바로 푼 문제`](https://velog.io/@minjikim/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%90%EB%B0%94)
 
 
 ## 학습할 주요 알고리즘
